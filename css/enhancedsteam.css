@@ -1,22 +1,4 @@
 /* are these still needed? */
-::-webkit-scrollbar {
-    height: 15px;
-    width: 15px;
-    background: #1a1a1a;
-}
-
-::-webkit-scrollbar-thumb {
-    background: #262626;
-    -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.75);
-}
-.scroller:hover::-webkit-scrollbar-thumb{
-    background: #585858;
-    -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.75);
-}
-::-webkit-scrollbar-corner {
-    background: #1a1a1a;
-}
-
 .blotter_author_block :any(.es_highlighted_owned, .es_highlighted_wishlist, .es_highlighted_coupon, .es_highlighted_inv_gift, .es_highlighted_inv_guestpass, .es_highlighted_friends_want) {
 	border-width: 0 0.2em 0 0.2em;
 	border-style: solid;

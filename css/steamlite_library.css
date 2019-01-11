@@ -1,0 +1,75 @@
+.popup_block2 {
+	z-index: 900;
+	position: absolute;
+	text-align:left;
+}
+
+.popup_block2 .popup_body2 {
+	background: -webkit-linear-gradient( top, #e3eaef 5%, #c7d5e0 95%);background: linear-gradient( to bottom, #e3eaef 5%, #c7d5e0 95%);	box-shadow: 0 0 5px #000;
+	position: relative;
+	z-index:900;
+}
+
+.popup_menu2 a.popup_menu_item2 {
+	display: block;
+	padding: 5px 12px;
+	color: #ffffff;
+	z-index:990;
+	white-space: nowrap;
+}
+
+.popup_menu2 a.bottom {
+	border-bottom: 1px solid #82807c;
+}	
+
+.popup_menu2 a.popup_menu_item2:hover {
+	color: #ffffff;
+	background-color:#272727;
+	text-decoration: none;
+}
+
+.popup_body2 h5 {
+	font-size: 10px;
+	font-weight: bold;
+	color: #212d3d;
+	z-index:999;
+	white-space: nowrap;
+}
+
+a.popup_menu_item2:hover h5 {
+	color: #ffffff;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.gray_bevel textarea { 
+	background-color: rgba( 0, 0, 0, 0.2 ); 
+	border-radius: 3px; 
+	border: 1px solid #000;
+	color: #C6D4DF; 
+	margin-bottom: 6px; 
+	outline: none; 
+	padding: 4px 6px;
+	box-shadow: 1px 1px 0 0 rgba(132,132,132,0.2)!important;  
+} 
+
+.sort_options a {
+	color: rgb(76,76,76);
+} 
+
+.pullup_item { 
+	background: rgb(41,41,41) !important; 
+	color: rgb(255,255,255) !important; 
+} 
+
+.gameListRow.gameListItemActive { 
+	background: rgb(76,76,76) !important; 
+} 
+
+.ellipsis.hours_played { 
+	color: rgb(144, 144, 144) !important;
+} 
+
+.menu_ico {
+	width: 0px !important; 
+} 

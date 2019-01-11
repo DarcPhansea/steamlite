@@ -69,10 +69,11 @@ a.popup_menu_item2:hover h5 {
 
 .gameListRow.gameListItemActive { 
 	background: rgb(76,76,76) !important; 
-} 
+}
 
-.ellipsis.hours_played { 
-	color: rgb(144, 144, 144) !important;
+#gameslist_controls,
+.ellipsis.hours_played {
+    color: rgb(144, 144, 144) !important;
 } 
 
 .menu_ico {

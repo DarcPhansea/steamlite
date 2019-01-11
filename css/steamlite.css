@@ -1,15 +1,15 @@
 ::-webkit-scrollbar {
     height: 15px;
     width: 15px;
-    background: #292929;
+    background: #1a1a1a;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #151515;
+    background: #262626;
 }
 .scroller:hover::-webkit-scrollbar-thumb{
-    background: #202020;
+    background: #313131;
 }
 ::-webkit-scrollbar-corner {
-    background: #292929;
+    background: #1a1a1a;
 }
